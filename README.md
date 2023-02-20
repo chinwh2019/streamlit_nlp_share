@@ -33,4 +33,4 @@ This app was created using the following libraries:
 
 ## License
 
-TBD
+MIT License
